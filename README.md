@@ -1,0 +1,2 @@
+# uciha-obito
+yamete
